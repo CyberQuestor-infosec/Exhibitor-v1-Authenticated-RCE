@@ -85,4 +85,4 @@ The `java.env script` input field is intended to pass environment variables, but
 ## 📝 Medium Blog
 
 Check out the full breakdown and narrative on my Medium blog:  
-👉 **[Read the blog](https://medium.com/@cyberquestor)**
+👉 **[Read the blog](https://medium.com/cyberquestor/exhibitor-v1-authenticated-remote-code-execution-rce-exploit-19f2d8603277?sk=d9d59621aaa987532a77c288a354e90f)**
